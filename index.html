@@ -27,12 +27,17 @@
     </div>
 
     <script>
+        let mobileSuits = [];
         async function loadMobileSuits() {
             const response = await fetch('mobile-suits.json');
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
             mobileSuits = await response.json();
             console.log('Mobile suits data loaded successfully');
             return mobileSuits;
-    }
+        }
+
         function createGalleryItem(suit) {
             const item = document.createElement('div');
             item.className = 'gallery-item';
@@ -46,7 +51,7 @@
             
             item.innerHTML = `
                 <div class="image-container">
-                    <img src="img/${suit.image}" alt="${suit.name}" onerror="this.style.display='none'; this.parentElement.style.background='linear-gradient(135deg, #333 0%, #555 100%)'; this.parentElement.innerHTML='<div style=\\"display:flex;align-items:center;justify-content:center;height:100%;color:#888;font-size:14px;\\">
+                    <img src="img/${suit.image}" alt="${suit.name}" onerror="this.src='img/placeholder/nopic.png'">
                 </div>
                 <div class="caption">
                     ${modelCodeHtml}
@@ -109,8 +114,9 @@
             }
         }
 
-        // Initialize
-        document.addEventListener('DOMContentLoaded', function() {
+        document.addEventListener('DOMContentLoaded', async function() {
+            await loadMobileSuits();
+            
             populateGallery();
             
             const searchInput = document.getElementById('searchInput');
@@ -118,7 +124,6 @@
                 filterGallery(this.value);
             });
             
-            // Add some keyboard shortcuts
             searchInput.addEventListener('keydown', function(e) {
                 if (e.key === 'Escape') {
                     this.value = '';
