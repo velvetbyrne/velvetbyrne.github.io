@@ -27,45 +27,12 @@
     </div>
 
     <script>
-        // Mobile suits data - expanded with more Gundam units
-        const mobileSuits = [
-            {
-                image: 'RX-78-2 Gundam.png',
-                modelCode: 'RX-78-2',
-                name: 'Gundam'
-            },
-            {
-                image: 'RX-77-2 Guncannon.png',
-                modelCode: 'RX-77-2',
-                name: 'Guncannon'
-            },
-            {
-                image: 'RX-75-4 Guntank.png',
-                modelCode: 'RX-75-4',
-                name: 'Guntank'
-            },
-            {
-                image: 'RX-78-2 Gundam + B-Parts.png',
-                modelCode: 'RX-78-2',
-                name: 'Gundam + B-Parts'
-            },
-            {
-                image: 'G-Fighter.png',
-                modelCode: '',
-                name: 'G-Fighter'
-            },
-            {
-                image: 'G-Bull.png',
-                modelCode: '',
-                name: 'G-Bull'
-            },
-            {
-                image: 'G-Sky.png',
-                modelCode: '',
-                name: 'G-Sky'
-            }
-        ];
-
+        async function loadMobileSuits() {
+            const response = await fetch('mobile-suits.json');
+            mobileSuits = await response.json();
+            console.log('Mobile suits data loaded successfully');
+            return mobileSuits;
+    }
         function createGalleryItem(suit) {
             const item = document.createElement('div');
             item.className = 'gallery-item';
