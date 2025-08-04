@@ -3,8 +3,5 @@
     {"image": "RX-77-2 Guncannon.png", "modelCode": "RX-77-2", "name": "Guncannon"},
     {"image": "RX-75-4 Guntank.png", "modelCode": "RX-75-4", "name": "Guntank"},
     {"image": "RX-78-2 Gundam + B-Parts.png", "modelCode": "RX-78-2", "name": "Gundam + B-Parts"},
-    {"image": "G-Fighter.png", "modelCode": "", "name": "G-Fighter"},
-    {"image": "G-Bull.png", "modelCode": "", "name": "G-Bull"},
-    {"image": "G-Sky.png", "modelCode": "", "name": "G-Sky"},
 	{"image": "MS-06F Zaku II.png", "modelCode": "MS-06F", "name": "Zaku II"}
 ]
