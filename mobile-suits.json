@@ -8,5 +8,6 @@
     {"image": "RX-75-4 Guntank.png", "modelCode": "RX-75-4", "name": "Guntank"},
     {"image": "RX-78-2 Gundam + B-Parts.png", "modelCode": "RX-78-2", "name": "Gundam + B-Parts"},
 	{"image": "MS-06F Zaku II.png", "modelCode": "MS-06F", "name": "Zaku II"},
-	{"image": "MS-06S Zaku II (Char Aznable).png", "modelCode": "MS-06F", "name": "Zaku II (Char Aznable)"}
+	{"image": "MS-06S Zaku II (Char Aznable).png", "modelCode": "MS-06F", "name": "Zaku II (Char Aznable)"},
+	{"image": "MS-06S Zaku I.png", "modelCode": "MS-05B", "name": "Zaku I"},
 ]
