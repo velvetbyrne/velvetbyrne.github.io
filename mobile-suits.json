@@ -1,7 +1,12 @@
 [
     {"image": "RX-78-2 Gundam.png", "modelCode": "RX-78-2", "name": "Gundam"},
+	{"image": "RX-78-2 Gundam (Rollout Model).png", "modelCode": "RX-78-2", "name": "Gundam (Rollout Model)"},
+	{"image": "RX-78-2 Gundam (Luna II Spec).png", "modelCode": "RX-78-2", "name": "Gundam (Luna II Spec)"},
+	{"image": "RX-78-2 Gundam (Jaburo Spec).png", "modelCode": "RX-78-2", "name": "Gundam (Jaburo Spec)"},
+	{"image": "RX-78-2 Gundam (Konpeitoh Spec).png", "modelCode": "RX-78-2", "name": "Gundam (Konpeitoh Spec)"},
     {"image": "RX-77-2 Guncannon.png", "modelCode": "RX-77-2", "name": "Guncannon"},
     {"image": "RX-75-4 Guntank.png", "modelCode": "RX-75-4", "name": "Guntank"},
     {"image": "RX-78-2 Gundam + B-Parts.png", "modelCode": "RX-78-2", "name": "Gundam + B-Parts"},
-	{"image": "MS-06F Zaku II.png", "modelCode": "MS-06F", "name": "Zaku II"}
+	{"image": "MS-06F Zaku II.png", "modelCode": "MS-06F", "name": "Zaku II"},
+	{"image": "MS-06S Zaku II (Char Aznable).png", "modelCode": "MS-06F", "name": "Zaku II (Char Aznable)"}
 ]
