@@ -154,11 +154,32 @@
         "description": "One of only 25 MS-14S/YMS-14 units produced, this machine was piloted by Colonel Char Aznable. Painted in his signature red, it engaged the Gundam in combat at the Texas Colony. During their rematch after the Solomon offensive, the unit’s right arm was destroyed. Unconfirmed reports suggest it was later refitted for deep space operations."
     },
 	{
+        "image": "MS-06R-2S Zaku Late Production Type (Dozle Zabi).png", 
+        "modelCode": "MS-06R-2S", 
+        "name": "Zaku Late Production Type (Dozle Zabi)",
+        "series": "Fukuchi Mobile Station",
+        "description": "A next-generation unit intended for Dozle Zabi’s personal use to annihilate the Federation fleet and strike Jaburo with decisive force. Painted in black. However, the unexpectedly early launch of Operation Star One led to Solomon’s fall before its deployment. With Dozle instead piloting the Big Zam dispatched from A Baoa Qu, only this machine’s technical data was transferred to the Gwazine."
+    },
+	{
         "image": "MS-06J Zaku II (Ken Bederstadt).png", 
         "modelCode": "MS-06J", 
         "name": "Zaku II Ground Type (Ken Bederstadt)",
         "series": "Mobile Suit Gundam: Lost War Chronicles",
         "description": "The mobile suit of Zeon's Foreign Legion, piloted by Lieutenant Commander Ken Bederstadt. As non-Zeon nationals, these soldiers were treated as expendable assets, forcibly deployed as a special guerrilla unit across global hotspots for high-risk missions."
+    },
+	{
+        "image": "Ryomen Sukuna.png", 
+        "modelCode": "", 
+        "name": "Ryomen Sukuna",
+        "series": "Mobile History Gundam Burai",
+        "description": "The Iron Cavalry unit piloted by Saishū Shura of Tokugou's 'Four Heavenly Kings' - the elite guard under the direct command of Conquest General Tokugou Souzen. True to its name, this heteromorphic machine bears distinct faces and armaments on both its frontal and dorsal surfaces, embodying its dual-natured design."
+    },
+	{
+        "image": "MS-14S Gelgoog (Ramba Ral).png", 
+        "modelCode": "MS-14S", 
+        "name": "Gelgoog (Ramba Ral)",
+        "series": "Gihren's Greed",
+        "description": "Customized as the personal unit of 'Blue Giant' Ramba Ral, this machine incorporated his own proposed enhancements including reinforced durability. Its signature blue color scheme completed the transformation into a commander's elite machine."
     },
     {
         "image": "RX-78-2 Gundam (Rollout Model).png", 
