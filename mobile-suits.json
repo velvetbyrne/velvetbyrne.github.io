@@ -84,6 +84,13 @@
         "description": "This Z'Gok was piloted by Char Aznable upon his assignment to the Mad Angler squadron. A late-model personal custom unit, it demonstrated a 20% performance improvement over the standard variant."
     },
 	{
+        "image": "RGM-79 GM.png", 
+        "modelCode": "RGM-79", 
+        "name": "GM",
+        "series": "Mobile Suit Gundam",
+        "description": "The Earth Federation Forces' primary mass-production mobile suit. Developed based on data from prototype units like the Gundam, this MS balances production efficiency with performance as a mainstay combat unit. While omitting the Core Block System, some variants feature modularized power and control systems built to equivalent specifications."
+    },
+	{
         "image": "MSM-03 Gogg.png", 
         "modelCode": "MSM-03", 
         "name": "Gogg",
@@ -110,6 +117,48 @@
         "name": "Zock",
         "series": "Mobile Suit Gundam",
         "description": "An amphibious mobile weapon developed by the Principality of Zeon. Unlike conventional MS, this unit cannot walk on land and instead moves via hopping locomotion, functioning more like an artillery platform than a standard mobile suit. With its unprecedented symmetrical front/rear design, it exhibits characteristics closer to a Mobile Armor (MA) than a typical MS."
+    },
+	{
+        "image": "MAM-07 Grublo.png", 
+        "modelCode": "MAM-07", 
+        "name": "Grublo",
+        "series": "Mobile Suit Gundam",
+        "description": "A submersible Mobile Armor developed by the Principality of Zeon for underwater combat. With operational range comparable to nuclear submarines and side-mounted auxiliary thrusters that double as functional arm units, it demonstrates underwater mobility far surpassing conventional submarines."
+    },
+	{
+        "image": "MA-04X Zakrello.png", 
+        "modelCode": "MA-04X", 
+        "name": "Zakrello",
+        "series": "Mobile Suit Gundam",
+        "description": "An experimental Mobile Armor abandoned mid-development by Zeon forces. This unit possessed a grotesque design featuring a face-like torso and twin scythe arms. During its solo assault on White Base, its predictable movement patterns were exploited, resulting in its destruction."
+    },
+	{
+        "image": "MA-05 Bigro.png", 
+        "modelCode": "MA-05", 
+        "name": "Bigro",
+        "series": "Mobile Suit Gundam",
+        "description": "A space combat Mobile Armor developed by the Principality of Zeon. With exceptional acceleration and maneuverability, it executes advanced spatial tactics including hit-and-run strikes with its mega particle cannon, as well as slashing attacks and mid-flight captures during close encounters. Some records indicate multiple units were produced."
+    },
+	{
+        "image": "MS-14 Gelgoog.png", 
+        "modelCode": "MS-14", 
+        "name": "Gelgoog",
+        "series": "Mobile Suit Gundam",
+        "description": "Developed as the successor to the Zaku II, this next-generation Mobile Suit became the Principality of Zeon’s new frontline unit. It was the first Zeon MS to standardize beam rifle armament."
+    },
+	{
+        "image": "MS-14S Gelgoog (Char Aznable).png", 
+        "modelCode": "MS-14S", 
+        "name": "Gelgoog (Char Aznable)",
+        "series": "Mobile Suit Gundam",
+        "description": "One of only 25 MS-14S/YMS-14 units produced, this machine was piloted by Colonel Char Aznable. Painted in his signature red, it engaged the Gundam in combat at the Texas Colony. During their rematch after the Solomon offensive, the unit’s right arm was destroyed. Unconfirmed reports suggest it was later refitted for deep space operations."
+    },
+	{
+        "image": "MS-06J Zaku II (Ken Bederstadt).png", 
+        "modelCode": "MS-06J", 
+        "name": "Zaku II Ground Type (Ken Bederstadt)",
+        "series": "Mobile Suit Gundam: Lost War Chronicles",
+        "description": "The mobile suit of Zeon's Foreign Legion, piloted by Lieutenant Commander Ken Bederstadt. As non-Zeon nationals, these soldiers were treated as expendable assets, forcibly deployed as a special guerrilla unit across global hotspots for high-risk missions."
     },
     {
         "image": "RX-78-2 Gundam (Rollout Model).png", 
