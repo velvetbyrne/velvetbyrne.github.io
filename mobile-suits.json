@@ -168,11 +168,25 @@
         "description": "The mobile suit of Zeon's Foreign Legion, piloted by Lieutenant Commander Ken Bederstadt. As non-Zeon nationals, these soldiers were treated as expendable assets, forcibly deployed as a special guerrilla unit across global hotspots for high-risk missions."
     },
 	{
+        "image": "GF13-017NJ Shining Gundam.png", 
+        "modelCode": "GF13-017NJ", 
+        "name": "Shining Gundam",
+        "series": "Mobile Fighter G Gundam",
+        "description": "Neo Japan's Mobile Fighter. Its Emotion Energy System fluctuates combat power based on the pilot's emotional state. The signature Shining Finger technique coats its fist in luminous liquid metal, capable of atomizing anything it grasps with radiant fury."
+    },
+	{
         "image": "Ryomen Sukuna.png", 
         "modelCode": "", 
         "name": "Ryomen Sukuna",
         "series": "Mobile History Gundam Burai",
         "description": "The Iron Cavalry unit piloted by Saishū Shura of Tokugou's 'Four Heavenly Kings' - the elite guard under the direct command of Conquest General Tokugou Souzen. True to its name, this heteromorphic machine bears distinct faces and armaments on both its frontal and dorsal surfaces, embodying its dual-natured design."
+    },
+	{
+        "image": "MS-07B Gouf (Thomas Kurtz).png", 
+        "modelCode": "MS-07B", 
+        "name": "Gouf (Thomas Kurtz)",
+        "series": "Gihren's Greed",
+        "description": "The mobile suit of Thomas Kurtz, a Federation defector to the Principality of Zeon. Deployed with guerrilla unit G-27 on Earth's frontlines, this camouflage-patterned machine achieved repeated combat successes through tactical surprise attacks that exploited enemy vulnerabilities."
     },
 	{
         "image": "MS-14S Gelgoog (Ramba Ral).png", 
