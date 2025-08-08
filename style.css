@@ -303,6 +303,7 @@ body {
 .modal-image-container {
     flex: 1;
     min-width: 300px;
+    height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
