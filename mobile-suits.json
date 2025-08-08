@@ -1,18 +1,114 @@
 [
-    {"image": "RX-78-2 Gundam.png", "modelCode": "RX-78-2", "name": "Gundam"},
-	{"image": "RX-78-2 Gundam (Rollout Model).png", "modelCode": "RX-78-2", "name": "Gundam (Rollout Model)"},
-	{"image": "RX-78-2 Gundam (Luna II Spec).png", "modelCode": "RX-78-2", "name": "Gundam (Luna II Spec)"},
-	{"image": "RX-78-2 Gundam (Jaburo Spec).png", "modelCode": "RX-78-2", "name": "Gundam (Jaburo Spec)"},
-	{"image": "RX-78-2 Gundam (Konpeitoh Spec).png", "modelCode": "RX-78-2", "name": "Gundam (Konpeitoh Spec)"},
-    {"image": "RX-77-2 Guncannon.png", "modelCode": "RX-77-2", "name": "Guncannon"},
-    {"image": "RX-75-4 Guntank.png", "modelCode": "RX-75-4", "name": "Guntank"},
-    {"image": "RX-78-2 Gundam + B-Parts.png", "modelCode": "RX-78-2", "name": "Gundam + B-Parts"},
-	{"image": "MS-06F Zaku II.png", "modelCode": "MS-06F", "name": "Zaku II"},
-	{"image": "MS-06S Zaku II (Char Aznable).png", "modelCode": "MS-06F", "name": "Zaku II (Char Aznable)"},
-	{"image": "MS-05B Zaku I.png", "modelCode": "MS-05B", "name": "Zaku I"},
-	{"image": "MS-07B Gouf.png", "modelCode": "MS-07B", "name": "Gouf"},
-	{"image": "MS-09 Dom.png", "modelCode": "MS-09", "name": "Dom"},
-	{"image": "YMS-15 Gyan.png", "modelCode": "YMS-15", "name": "Gyan"},
-	{"image": "MAX-03 Adzam.png", "modelCode": "MAX-03", "name": "Adzam"},
-	{"image": "MSM-07S Z'Gok (Char Aznable).png", "modelCode": "MSM-07S", "name": "Z'Gok (Char Aznable)"}
+    {
+        "image": "RX-78-2 Gundam.png", 
+        "modelCode": "RX-78-2", 
+        "name": "Gundam",
+        "series": "Mobile Suit Gundam",
+        "description": "One of the prototype main Mobile Suits developed by the Earth Federation Forces based on the V Project. This unit can be called an 'all-purpose type,' incorporating most of the concepts proposed in the RX Plan. It adopts the Core Block System, which maintains compatibility with the early RX series' Guncannon and Guntank."
+    },
+    {
+        "image": "RX-77-2 Guncannon.png", 
+        "modelCode": "RX-77-2", 
+        "name": "Guncannon",
+        "series": "Mobile Suit Gundam",
+        "description": "A prototype artillery Mobile Suit designed primarily for mid-range fire support. Rolled out around the same time as the Gundam and Guntank, this unit also utilizes the Core Block System. Its design prioritizes ballistic resistance over mobility, eliminating the need for a shield."
+    },
+    {
+        "image": "RX-75-4 Guntank.png", 
+        "modelCode": "RX-75-4", 
+        "name": "Guntank",
+        "series": "Mobile Suit Gundam",
+        "description": "A prototype artillery Mobile Suit designed primarily for long-range fire support. Rolled out around the same time as the Gundam and Guncannon, this unit also employs the Core Block System. It was partly developed as a contingency in case the development of MS bipedal locomotion or beam rifles encountered difficulties. While capable of combat in space, its mobility is severely limited."
+    },
+    {
+        "image": "RX-78-2 Gundam + B-Parts.png", 
+        "modelCode": "RX-78-2", 
+        "name": "Gundam + B-Parts",
+        "series": "Mobile Suit Gundam",
+        "description": "Enhanced variant of the RX-78-2 Gundam equipped with additional B-Parts enhancement equipment for improved combat capabilities."
+    },
+    {
+        "image": "MS-06F Zaku II.png", 
+        "modelCode": "MS-06F", 
+        "name": "Zaku II",
+        "series": "Mobile Suit Gundam",
+        "description": "A variant of the Zaku II C-type with nuclear protection equipment removed to improve operational efficiency. Boasting exceptional versatility, this model served as the Principality of Zeon's mainstay mobile suit throughout the One Year War."
+    },
+    {
+        "image": "MS-06S Zaku II (Char Aznable).png", 
+        "modelCode": "MS-06S", 
+        "name": "Zaku II (Char Aznable)",
+        "series": "Mobile Suit Gundam",
+        "description": "This MS-06S Zaku II Commander Type was personally customized for Major Char Aznable. By effectively utilizing its thrusters and other systems, it demonstrated mobility said to be 'three times faster than normal.' During the Battle of Loum, it achieved the remarkable feat of sinking five enemy warships. Combined with its distinctive red color scheme, these accomplishments earned it the nickname 'Red Comet.' This title not only reflects the superior performance of the Zaku IIS but also highlights then-Lieutenant Char's exceptional piloting skills."
+    },
+    {
+        "image": "MS-05B Zaku I.png", 
+        "modelCode": "MS-05B", 
+        "name": "Zaku I",
+        "series": "Mobile Suit Gundam",
+        "description": "The first mass-produced combat Mobile Suit developed by the Principality of Zeon. Early production models were designated as MS-05A before specifications were upgraded to the MS-05B variant. The operational data gathered from these units directly contributed to the development decision for the MS-06 series."
+    },
+    {
+        "image": "MS-07B Gouf.png", 
+        "modelCode": "MS-07B", 
+        "name": "Gouf",
+        "series": "Mobile Suit Gundam",
+        "description": "Developed as a ground combat Mobile Suit for gravity environments. Originally conceived as an enhanced version of the MS-06J type, it ultimately evolved into a completely distinct model. Based on combat simulations focusing on MS melee engagements, the Type B variant - equipped with standardized armaments - was selected for mass production."
+    },
+    {
+        "image": "MS-09 Dom.png", 
+        "modelCode": "MS-09", 
+        "name": "Dom",
+        "series": "Mobile Suit Gundam",
+        "description": "The mass-production model of the Dom series. This unit demonstrates exceptional ground combat capabilities through its heavy firepower, ballistic-resistant heavy armor, and unmatched ground speed via thermonuclear hover systems. With a maximum ground speed of 381 km/h and superior offensive/defensive capabilities, it proved ideal for hit-and-run tactics."
+    },
+    {
+        "image": "YMS-15 Gyan.png", 
+        "modelCode": "YMS-15", 
+        "name": "Gyan",
+        "series": "Mobile Suit Gundam",
+        "description": "A specialized close-combat Mobile Suit developed by Zimmad Company under the Next-Generation Mainstay MS Development Program. Despite its unique design philosophy focusing on melee combat, it ultimately lost out to the Gelgoog in the final selection process."
+    },
+    {
+        "image": "MAX-03 Adzam.png", 
+        "modelCode": "MAX-03", 
+        "name": "Adzam",
+        "series": "Mobile Suit Gundam",
+        "description": "A prototype Mobile Armor modified from the G87 Luna Tank lunar transport pod. Serving as a testbed for Minovsky Craft system technology, it also incorporates hover engines. When synchronized with the Apsalus Leader unit, this weapon can trap enemy units in a high-frequency electromagnetic cage, then attack them with electromagnetic waves and 4000°C extreme heat."
+    },
+    {
+        "image": "MSM-07S Z'Gok (Char Aznable).png", 
+        "modelCode": "MSM-07S", 
+        "name": "Z'Gok (Char Aznable)",
+        "series": "Mobile Suit Gundam",
+        "description": "This Z'Gok was piloted by Char Aznable upon his assignment to the Mad Angler squadron. A late-model personal custom unit, it demonstrated a 20% performance improvement over the standard variant."
+    },
+    {
+        "image": "RX-78-2 Gundam (Rollout Model).png", 
+        "modelCode": "RX-78-2", 
+        "name": "Gundam (Rollout Model)",
+        "series": "Master Archive Mobile Suit",
+        "description": "Unit 2 was produced after the RX-78-1 specifications were finalized at Jaburo. While ground operational testing had been partially completed, Units 1 through 3 were subsequently transported to Luna II. The transport route to Luna II and the vessels used for delivery remain unconfirmed."
+    },
+    {
+        "image": "RX-78-2 Gundam (Luna II Spec).png", 
+        "modelCode": "RX-78-2", 
+        "name": "Gundam (Luna II Spec)",
+        "series": "Master Archive Mobile Suit",
+        "description": "At Luna II, Units 1 through 3 underwent modifications from the RX-78-1 to RX-78-2 specifications. However, while their external appearances matched the new standard, it remains unclear whether every internal component was uniformly updated. For easier identification, each unit received distinct color schemes—Unit 2's tricolor pattern has led some analysts to speculate it was originally prepared for an upcoming ceremonial presentation."
+    },
+    {
+        "image": "RX-78-2 Gundam (Jaburo Spec).png", 
+        "modelCode": "RX-78-2", 
+        "name": "Gundam (Jaburo Spec)",
+        "series": "Master Archive Mobile Suit",
+        "description": "At Jaburo, the units received upgrades to their space-use equipment and control systems. While exhibiting minimal external changes, these modifications incorporated new technologies derived from both the limited Federation MS deployments outside the White Base team and parallel mobile suit development programs—suggesting coordinated technological integration between these projects."
+    },
+    {
+        "image": "RX-78-2 Gundam (Konpeitoh Spec).png", 
+        "modelCode": "RX-78-2", 
+        "name": "Gundam (Konpeitoh Spec)",
+        "series": "Master Archive Mobile Suit",
+        "description": "Unit 2 underwent its final modifications at the newly captured Konpeitoh (formerly Solomon). In addition to the application of magnetic coating, significant external changes were made to various sections of the mobile suit. Effectively, it was upgraded to specifications equivalent to the RX-78-3."
+    }
 ]

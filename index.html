@@ -26,6 +26,24 @@
         </div>
     </div>
 
+    <!-- Pop-up Modal -->
+    <div class="modal-overlay" id="modalOverlay">
+        <div class="modal-content">
+            <button class="modal-close" id="modalClose">&times;</button>
+            <div class="modal-body">
+                <div class="modal-image-container">
+                    <img id="modalImage" src="" alt="">
+                </div>
+                <div class="modal-details">
+                    <div class="modal-model-code" id="modalModelCode"></div>
+                    <h2 class="modal-name" id="modalName"></h2>
+                    <div class="modal-series" id="modalSeries"></div>
+                    <div class="modal-description" id="modalDescription"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <script>
         let mobileSuits = [];
         async function loadMobileSuits() {
@@ -38,10 +56,11 @@
             return mobileSuits;
         }
 
-        function createGalleryItem(suit) {
+        function createGalleryItem(suit, index) {
             const item = document.createElement('div');
             item.className = 'gallery-item';
             item.setAttribute('data-searchable', `${suit.modelCode} ${suit.name}`.toLowerCase());
+            item.setAttribute('data-index', index);
             
             const modelCodeHtml = suit.modelCode 
                 ? `<div class="model-code">${suit.modelCode}</div>`
@@ -59,15 +78,51 @@
                 </div>
             `;
             
+            // Add click event listener
+            item.addEventListener('click', () => openModal(suit));
+            
             return item;
+        }
+
+        function openModal(suit) {
+            const modal = document.getElementById('modalOverlay');
+            const modalImage = document.getElementById('modalImage');
+            const modalModelCode = document.getElementById('modalModelCode');
+            const modalName = document.getElementById('modalName');
+            const modalSeries = document.getElementById('modalSeries');
+            const modalDescription = document.getElementById('modalDescription');
+
+            modalImage.src = `img/${suit.image}`;
+            modalImage.alt = suit.name;
+            modalImage.onerror = function() { this.src = 'img/placeholder/nopic.png'; };
+            
+            if (suit.modelCode) {
+                modalModelCode.textContent = suit.modelCode;
+                modalModelCode.style.display = 'block';
+            } else {
+                modalModelCode.style.display = 'none';
+            }
+            
+            modalName.textContent = suit.name;
+            modalSeries.textContent = suit.series;
+            modalDescription.textContent = suit.description;
+
+            modal.style.display = 'flex';
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeModal() {
+            const modal = document.getElementById('modalOverlay');
+            modal.style.display = 'none';
+            document.body.style.overflow = 'auto';
         }
 
         function populateGallery() {
             const gallery = document.getElementById('gallery');
             gallery.innerHTML = '';
             
-            mobileSuits.forEach(suit => {
-                gallery.appendChild(createGalleryItem(suit));
+            mobileSuits.forEach((suit, index) => {
+                gallery.appendChild(createGalleryItem(suit, index));
             });
             
             updateResultsCount();
@@ -129,6 +184,24 @@
                     this.value = '';
                     filterGallery('');
                     this.blur();
+                }
+            });
+
+            // Modal event listeners
+            const modalClose = document.getElementById('modalClose');
+            const modalOverlay = document.getElementById('modalOverlay');
+
+            modalClose.addEventListener('click', closeModal);
+            
+            modalOverlay.addEventListener('click', function(e) {
+                if (e.target === modalOverlay) {
+                    closeModal();
+                }
+            });
+
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape') {
+                    closeModal();
                 }
             });
         });
