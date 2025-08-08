@@ -83,6 +83,34 @@
         "series": "Mobile Suit Gundam",
         "description": "This Z'Gok was piloted by Char Aznable upon his assignment to the Mad Angler squadron. A late-model personal custom unit, it demonstrated a 20% performance improvement over the standard variant."
     },
+	{
+        "image": "MSM-03 Gogg.png", 
+        "modelCode": "MSM-03", 
+        "name": "Gogg",
+        "series": "Mobile Suit Gundam",
+        "description": "An amphibious mobile suit developed by the Zeon Principality. It was the first water/land combat MS to achieve mass production success. By retracting its limbs into the body to reduce drag, it can assume a hydrodynamically optimized form capable of reaching underwater speeds up to 70 knots."
+    },
+	{
+        "image": "MSM-04 Acguy.png", 
+        "modelCode": "MSM-04", 
+        "name": "Acguy",
+        "series": "Mobile Suit Gundam",
+        "description": "An amphibious mobile suit developed by the Principality of Zeon, renowned for its high stealth capabilities. While its standard configuration features a retractable right arm with built-in mega particle cannon (Iron Nail) and a left arm with 6-tube missile launcher, the modular arm units allow for alternative weapon configurations."
+    },
+	{
+        "image": "MSM-07 Z'Gok.png", 
+        "modelCode": "MSM-07", 
+        "name": "Z'Gok",
+        "series": "Mobile Suit Gundam",
+        "description": "An amphibious mobile suit developed by the Principality of Zeon. Among MS in its class, it boasts superior ground combat capabilities, enabling it to fight Federation mass-production models on equal or better terms. Each of its claw-equipped arms contains a built-in mega particle cannon at the center."
+    },
+	{
+        "image": "MSM-10 Zock.png", 
+        "modelCode": "MSM-10", 
+        "name": "Zock",
+        "series": "Mobile Suit Gundam",
+        "description": "An amphibious mobile weapon developed by the Principality of Zeon. Unlike conventional MS, this unit cannot walk on land and instead moves via hopping locomotion, functioning more like an artillery platform than a standard mobile suit. With its unprecedented symmetrical front/rear design, it exhibits characteristics closer to a Mobile Armor (MA) than a typical MS."
+    },
     {
         "image": "RX-78-2 Gundam (Rollout Model).png", 
         "modelCode": "RX-78-2", 
