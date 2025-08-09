@@ -175,6 +175,13 @@
         "description": "Neo Japan's Mobile Fighter. Its Emotion Energy System fluctuates combat power based on the pilot's emotional state. The signature Shining Finger technique coats its fist in luminous liquid metal, capable of atomizing anything it grasps with radiant fury."
     },
 	{
+        "image": "XXXG-01W Wing Gundam.png", 
+        "modelCode": "XXXG-01W", 
+        "name": "Wing Gundam",
+        "series": "New Mobile Report Gundam Wing",
+        "description": "A transformable Mobile Suit developed by Doctor J, This Gundam variant stands out among Earth-deployed units with exceptional versatility, featuring a devastating Buster Rifle and high-speed Bird Mode transformation. Its shield houses a built-in beam saber, while additional armaments like head vulcans and shoulder machine cannons ensure close-quarters combat readiness."
+    },
+	{
         "image": "Ryomen Sukuna.png", 
         "modelCode": "", 
         "name": "Ryomen Sukuna",
