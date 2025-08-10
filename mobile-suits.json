@@ -154,6 +154,48 @@
         "description": "One of only 25 MS-14S/YMS-14 units produced, this machine was piloted by Colonel Char Aznable. Painted in his signature red, it engaged the Gundam in combat at the Texas Colony. During their rematch after the Solomon offensive, the unit’s right arm was destroyed. Unconfirmed reports suggest it was later refitted for deep space operations."
     },
 	{
+		"image": "MAN-18 Elmeth.png",
+		"modelCode": "MAN-18",
+		"name": "Elmeth",
+		"series": "Mobile Suit Gundam",
+		"description": "A Newtype-use Mobile Armor developed by the Principality of Zeon. Equipped with a Psycommu system, it can perform all-range attacks using wire-guided mega particle cannon bits. Enemy units are often destroyed without even noticing the bits' presence. The main unit's mobility is also exceptionally high, armed with two mega particle cannons."
+	},
+	{
+		"image": "MS-09R Rick Dom.png",
+		"modelCode": "MS-09R",
+		"name": "Rick Dom",
+		"series": "Mobile Suit Gundam",
+		"description": "A Zeon space-use heavy Mobile Suit. This unit was converted for space combat by refitting the engines from the ground combat MS-09 Dom. After deployment, it replaced the Zaku as the main space combat MS and played an active role. Its main armament is a 360mm rocket bazooka."
+	},
+	{
+		"image": "MAN-03 Braw-Bro.png",
+		"modelCode": "MAN-03",
+		"name": "Braw-Bro",
+		"series": "Mobile Suit Gundam",
+		"description": "A Newtype-use Mobile Armor developed by the Principality of Zeon. Equipped with a special control system called Psycommu, it handles both unit control and weapon fire control. This enables complex remote attacks known as all-range attacks."
+	},
+	{
+		"image": "MA-08 Big-Zam.png",
+		"modelCode": "MA-08",
+		"name": "Big-Zam",
+		"series": "Mobile Suit Gundam",
+		"description": "A Mobile Armor developed by the Principality of Zeon for fortress assaults, with plans for mass production. Capable of deploying a beam barrier via its I-field generator, making it virtually invulnerable against mid-to-long range beam attacks. However, it has limited defensive capability against beam or projectile weapons fired from inside its I-field range."
+	},
+	{
+		"image": "RB-79 Ball.png",
+		"modelCode": "RB-79",
+		"name": "Ball",
+		"series": "Mobile Suit Gundam",
+		"description": "A simplified Mobile Suit developed by the Earth Federation as support for the RGM-79 GM. More akin to an armed work pod than a true Mobile Suit. Developed and mass-produced at Luna II base, it saw action in battles such as Solomon and A Baoa Qu."
+	},
+	{
+		"image": "MSN-02 Zeong.png",
+		"modelCode": "MSN-02",
+		"name": "Zeong",
+		"series": "Mobile Suit Gundam",
+		"description": "A Newtype-use Mobile Suit bearing the name of Zeon itself, representing the Principality's pride. Armed with 13 mega particle cannons in its head, abdomen, and fingertips, it performs all-range attacks using both its detached forearms and main body. Though legs were developed for this unit, some sources suggest they weren't completed in time for deployment."
+	},
+	{
         "image": "MS-06R-2S Zaku Late Production Type (Dozle Zabi).png", 
         "modelCode": "MS-06R-2S", 
         "name": "Zaku Late Production Type (Dozle Zabi)",
