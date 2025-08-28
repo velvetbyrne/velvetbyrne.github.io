@@ -210,6 +210,13 @@
         "description": "The mobile suit of Zeon's Foreign Legion, piloted by Lieutenant Commander Ken Bederstadt. As non-Zeon nationals, these soldiers were treated as expendable assets, forcibly deployed as a special guerrilla unit across global hotspots for high-risk missions."
     },
 	{
+		"image": "RGM-79NA Atomic Heavy Armor GM Custom.png",
+		"modelCode": "RGM-79NA",
+		"name": "Atomic Heavy Armor GM Custom",
+		"series": "Mobile Suit Gundam",
+		"description": "A concept Mobile Suit developed early on for the purpose of operating the Atomic Bazooka, based on the GM Custom which was developed post-One Year War as a high-output machine for ace pilots. It features an unusual configuration with its right arm replaced by the Atomic Bazooka itself. To protect the cockpit from fusion reaction shock, chest armor is reinforced and additional frontal armor is equipped across the entire body."
+	}
+	{
         "image": "GF13-017NJ Shining Gundam.png", 
         "modelCode": "GF13-017NJ", 
         "name": "Shining Gundam",
@@ -238,6 +245,20 @@
 		"description": "A Berserker Mode Nobel Gundam secretly built by Saki to fight Rai and Shingo. While primarily colored in Saki's signature red, it features gothic lolita-style frill patterns that showcase her fashionable taste. The dramatically enhanced weaponry also represents Saki's characteristic charm."
 	},
 	{
+		"image": "Beargguy II.png",
+		"modelCode": "",
+		"name": "Beargguy II",
+		"series": "Gundam Build Fighters Try",
+		"description": "An evolution of the Beargguy that appears in 'Model Suit Gunpla Builders Beginning G'. Kousaka China, built her 'Beargguy-san' based on this unit. The machine features a lighter brown color for a more bear-like appearance. While it lacks the ribbon strobe light that China added herself, several ribbon-equipped variations of this machine exist."
+	},
+	{
+		"image": "Musha Gundam the 78th.png",
+		"modelCode": "",
+		"name": "Musha Gundam the 78th",
+		"series": "SD Gundam World Heroes: Kirahagane Monogatari",
+		"description": "He is the 78th heir to a prestigious family that thrives in the Musha World. He is a skilled sword fighter, but has no interest in power or polltics and rarely engages in warfare. His honest and simple-minded personality often leads to eccentric actions. Having spent his childhood in the countryside, he lives a laid-back life. He was entrusted with Kirahagane due to his skills and peace-loving nature."
+	},
+	{
         "image": "MS-07B Gouf (Thomas Kurtz).png", 
         "modelCode": "MS-07B", 
         "name": "Gouf (Thomas Kurtz)",
@@ -251,6 +272,20 @@
         "series": "Gihren's Greed",
         "description": "Customized as the personal unit of 'Blue Giant' Ramba Ral, this machine incorporated his own proposed enhancements including reinforced durability. Its signature blue color scheme completed the transformation into a commander's elite machine."
     },
+	{
+		"image": "NZ-333 ϝ Azieru.png",
+		"modelCode": "NZ-333",
+		"name": "ϝ Azieru",
+		"series": "Mobile Suit Gundam: Try Age",
+		"description": "A modified version of the α Azieru created by Neo Zeon to eliminate remaining Earth Federation forces and bases on Earth after the successful Axis Drop Operation. It features added legs for ground operation and its arms have been replaced with funnel hands instead of sub-arms. Originally intended to bear the name 'Perfect,' its development was halted due to changing battle conditions, and it was instead assigned the lost Greek letter 'ϝ (Digamma)'."
+	},
+	{
+		"image": "MS-06J Zaku II (Jaburo Operation).png",
+		"modelCode": "MS-06J",
+		"name": "Zaku II (Jaburo Operation)",
+		"series": "Great Mechanics - Zaku",
+		"description": "A unit deployed in infiltration operations in surrounding areas during the preliminary stages of the Jaburo invasion. This early production J-type model features space-use colors on its movable and power sections, significantly reducing its camouflage effectiveness. In some cases, these prominently painted early production models may have been prioritized as camouflage units."
+	},
     {
         "image": "RX-78-2 Gundam (Rollout Model).png", 
         "modelCode": "RX-78-2", 
