@@ -213,8 +213,22 @@
 		"image": "RGM-79NA Atomic Heavy Armor GM Custom.png",
 		"modelCode": "RGM-79NA",
 		"name": "Atomic Heavy Armor GM Custom",
-		"series": "Mobile Suit Gundam",
+		"series": "Mobile Suit Gundam 0083: Rebellion",
 		"description": "A concept Mobile Suit developed early on for the purpose of operating the Atomic Bazooka, based on the GM Custom which was developed post-One Year War as a high-output machine for ace pilots. It features an unusual configuration with its right arm replaced by the Atomic Bazooka itself. To protect the cockpit from fusion reaction shock, chest armor is reinforced and additional frontal armor is equipped across the entire body."
+	},
+	{
+		"image": "MSZ-008V ZⅡ V-Type.png",
+		"modelCode": "MSZ-008V",
+		"name": "ZⅡ V-Type",
+		"series": "Mobile Suit Gundam ZZ",
+		"description": "The ZⅡ's development was shelved during the First Neo Zeon War due to the ZZ Gundam being prioritized. However, based on combat data gathered when completed prototypes were deployed in the Axis offensive, limited production was approved and several improved variants were developed. The V-Type is one of these machines, enhanced for close-quarters combat capabilities optimized for Mobile Suit engagements."
+	}
+	{
+		"image": "EMS-12 Arana.png",
+		"modelCode": "EMS-12",
+		"name": "Arana",
+		"series": "Mobile Suit Crossbone Gundam Skull Heart",
+		"description": "A Jupiter Empire next-generation main force mass production plan machine, classified as a small Mobile Suit at approximately 10 meters tall. Although it was not completed during the Jupiter War, its S-size frame technology was utilized in the development of the Abijo and Angel Halo."
 	},
 	{
         "image": "GF13-017NJ Shining Gundam.png", 
@@ -230,6 +244,20 @@
         "series": "New Mobile Report Gundam Wing",
         "description": "A transformable Mobile Suit developed by Doctor J, This Gundam variant stands out among Earth-deployed units with exceptional versatility, featuring a devastating Buster Rifle and high-speed Bird Mode transformation. Its shield houses a built-in beam saber, while additional armaments like head vulcans and shoulder machine cannons ensure close-quarters combat readiness."
     },
+	{
+		"image": "SVMS-01AW Union Flag Orbit Package Astro Work Type.png",
+		"modelCode": "SVMS-01AW",
+		"name": "Union Flag Orbit Package Astro Work Type",
+		"series": "Mobile Suit Gundam 00V",
+		"description": "A work specification variant of the space-use Flag. Both arms have been replaced with work manipulators, and the arm units can be swapped out depending on the specific task requirements."
+	},
+	{
+		"image": "VMS-15 Union Realdo (Japan Products).png",
+		"modelCode": "VMS-15",
+		"name": "Union Realdo (Japan Products)",
+		"series": "Mobile Suit Gundam 00N",
+		"description": "Among the many variant machines of the Union Realdo, this is a locally produced model born from a licensing agreement with Japan. It features revised basic performance through redesign of various components, with nearly all of its parts being manufactured in Japan."
+	},
 	{
         "image": "Ryomen Sukuna.png", 
         "modelCode": "", 
@@ -278,6 +306,13 @@
 		"name": "ϝ Azieru",
 		"series": "Mobile Suit Gundam: Try Age",
 		"description": "A modified version of the α Azieru created by Neo Zeon to eliminate remaining Earth Federation forces and bases on Earth after the successful Axis Drop Operation. It features added legs for ground operation and its arms have been replaced with funnel hands instead of sub-arms. Originally intended to bear the name 'Perfect,' its development was halted due to changing battle conditions, and it was instead assigned the lost Greek letter 'ϝ (Digamma)'."
+	},
+	{
+		"image": "GF13-006NA Gundam Maxter (Jungle Combat Type).png",
+		"modelCode": "GF13-006NA",
+		"name": "Gundam Maxter (Jungle Combat Type)",
+		"series": "NG 1/100 Mobile Fighter G Gundam Model Kits",
+		"description": "A Gundam Maxter painted with camouflage for operations primarily in jungle environments. Color scheme variations like this were sometimes applied depending on the intended deployment area."
 	},
 	{
 		"image": "MS-06J Zaku II (Jaburo Operation).png",
