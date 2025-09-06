@@ -217,10 +217,17 @@
 		"description": "A concept Mobile Suit developed early on for the purpose of operating the Atomic Bazooka, based on the GM Custom which was developed post-One Year War as a high-output machine for ace pilots. It features an unusual configuration with its right arm replaced by the Atomic Bazooka itself. To protect the cockpit from fusion reaction shock, chest armor is reinforced and additional frontal armor is equipped across the entire body."
 	},
 	{
+		"image": "NRX-044 Asshimar (Glemy Faction Specification).png",
+		"modelCode": "NRX-044",
+		"name": "Asshimar (Glemy Faction Specification)",
+		"series": "Mobile Suit ZZ Gundam",
+		"description": "A machine of the Glemy Faction that was taken over by Neo Zeon. It accompanies the Quin Mantha and other Titans or Neo Zeon mobile suits. Although originally designed for atmospheric use, this unit appears in space."
+	},
+	{
 		"image": "MSZ-008V ZⅡ V-Type.png",
 		"modelCode": "MSZ-008V",
 		"name": "ZⅡ V-Type",
-		"series": "Mobile Suit Gundam ZZ",
+		"series": "Mobile Suit Gundam Valpurgis",
 		"description": "The ZⅡ's development was shelved during the First Neo Zeon War due to the ZZ Gundam being prioritized. However, based on combat data gathered when completed prototypes were deployed in the Axis offensive, limited production was approved and several improved variants were developed. The V-Type is one of these machines, enhanced for close-quarters combat capabilities optimized for Mobile Suit engagements."
 	},
 	{
@@ -230,6 +237,13 @@
 		"series": "Mobile Suit Crossbone Gundam Skull Heart",
 		"description": "A Jupiter Empire next-generation main force mass production plan machine, classified as a small Mobile Suit at approximately 10 meters tall. Although it was not completed during the Jupiter War, its S-size frame technology was utilized in the development of the Abijo and Angel Halo."
 	},
+	{
+		"image": "MS-07 Gouf (Origin).png",
+		"modelCode": "MS-07",
+		"name": "Gouf (Origin)",
+		"series": "Mobile Suit Gundam: The Origin",
+		"description": "A ground combat Mobile Suit of the Zeon military with a different operational concept than the Zaku, specializing in close combat with weapons like the heat rod and heat sword. This unit was piloted by Captain Ramba Ral, 'The Blue Giant', who was tasked with destroying the White Base."
+}	,
 	{
         "image": "GF13-017NJ Shining Gundam.png", 
         "modelCode": "GF13-017NJ", 
@@ -244,6 +258,13 @@
         "series": "New Mobile Report Gundam Wing",
         "description": "A transformable Mobile Suit developed by Doctor J, This Gundam variant stands out among Earth-deployed units with exceptional versatility, featuring a devastating Buster Rifle and high-speed Bird Mode transformation. Its shield houses a built-in beam saber, while additional armaments like head vulcans and shoulder machine cannons ensure close-quarters combat readiness."
     },
+	{
+		"image": "WMS-01 Aquila.png",
+		"modelCode": "WMS-01",
+		"name": "Aquila",
+		"series": "New Mobile Report Gundam Wing: Frozen Teardrop",
+		"description": "The prototype machine that would become the Maganac, designed by Doctor S and Professor H. Approximately 150 units were built around A.C. 190 and operated by the Barton Foundation."
+	},
 	{
 		"image": "SVMS-01AW Union Flag Orbit Package Astro Work Type.png",
 		"modelCode": "SVMS-01AW",
