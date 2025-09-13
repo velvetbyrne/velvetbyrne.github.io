@@ -217,6 +217,20 @@
 		"description": "A concept Mobile Suit developed early on for the purpose of operating the Atomic Bazooka, based on the GM Custom which was developed post-One Year War as a high-output machine for ace pilots. It features an unusual configuration with its right arm replaced by the Atomic Bazooka itself. To protect the cockpit from fusion reaction shock, chest armor is reinforced and additional frontal armor is equipped across the entire body."
 	},
 	{
+		"image": "RGM-79Q GM Quel (Chobham Armor).png",
+		"modelCode": "RGM-79Q",
+		"name": "GM Quel (Chobham Armor)",
+		"series": "Advance of Zeta: ReBoot",
+		"description": "A GM Quel equipped with Chobham Armor. The additional armor is equivalent to that tested on the Alex Gundam, but by limiting the installation to the torso and waist, the reduction in mobility is minimized. This equipment incorporates data from T3 Unit experiments and proved effective against Zeon remnant forces like Zakus and Doms that primarily used projectile weapons."
+	},
+	{
+		"image": "MS-11+ARZ-124GBIIM Act Zaku Rah II Aqua.png",
+		"modelCode": "MS-11+ARZ-124GBIIM",
+		"name": "Act Zaku Rah II Aqua",
+		"series": "Advance of Zeta: ReBoot",
+		"description": "The Act Zaku was a machine incorporated into the Zeon Principality's 'Pezun Plan' during the One Year War. After the war, it was deployed at the Earth Federation's Newtype Research Institute, where it received modern modifications including a linear seat. This unit demonstrates that even older machines like the Act Zaku can utilize the 'Universal Conversion System' of the Aqua Hambrabi I to enable combination. This form serves as an example showing that, regardless of a Mobile Suit's age or origin, any humanoid weapon with limbs can potentially combine with this system."
+	},
+	{
 		"image": "NRX-044 Asshimar (Glemy Faction Specification).png",
 		"modelCode": "NRX-044",
 		"name": "Asshimar (Glemy Faction Specification)",
